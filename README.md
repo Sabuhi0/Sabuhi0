@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on FrontEnd development
 
-- 🌱 I'm currently learning Sass/JavaScript
+- 🌱 I'm currently learning JavaScript
 
 - 💬 Talk to me about JavaScript, React, Cyber Security 
 
