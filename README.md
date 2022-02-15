@@ -48,7 +48,10 @@
 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sabuhi0&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sabuhi0&count_private=true&show_icons=true&theme=dark" padding-right='0px' width='47%' />
 
+</a>
 <!-- <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabuhi0&theme=dark"  />
 </a> -->
