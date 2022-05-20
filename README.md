@@ -1,19 +1,12 @@
-<div align="center">
-<img width="50%" height = "250px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover" align="right" />
-</div>
-
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sabuhi0.Sabuhi0)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Sabuhi+Gasimov)]( https://sabuhi0.herokuapp.com/)
 </p>
-
-
 <h2> About Me </h2>
+ <img width="420px" align="right" alt="Github" src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8" />
  
-<img width="420px" align="right" alt="Github" src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8" />
-
 - 🔭 I’m currently working on FrontEnd development
 
 - 🌱 I'm currently learning JavaScript
