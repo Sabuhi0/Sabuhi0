@@ -1,4 +1,4 @@
-<h1> Hello < Developers/ >!<img width =50px src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> </h1>
+<h1> Hello < Developers/ >!</h1>
 <p>
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sabuhi0.Sabuhi0)
