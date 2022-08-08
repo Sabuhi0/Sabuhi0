@@ -35,7 +35,6 @@
 <a href = 'https://www.linkedin.com/in/sabuhi-gasimov-0466b5226/'> <img width = '32px' align= 'center' src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"/></a> 
  
 
-
 <h2> My GitHub Stats </h2>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sabuhi0&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
