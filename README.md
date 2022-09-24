@@ -36,5 +36,4 @@
 <h2> My GitHub Stats </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sabuhi0&count_private=true&show_icons=true&theme=dark" padding-right='0px' width='47%' /></a>
-
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabuhi0&theme=dark" padding-left='0px' width='47%' />
