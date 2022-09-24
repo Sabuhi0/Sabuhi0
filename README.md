@@ -33,7 +33,6 @@
 <a href = 'https://sabuhi0.herokuapp.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.linkedin.com/in/sabuhi-gasimov-0466b5226/'> <img width = '32px' align= 'center' src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"/></a> 
  
-<h2> My GitHub Stats </h2>
-
+<h2> My GitHub Stats </h2
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sabuhi0&count_private=true&show_icons=true&theme=dark" padding-right='0px' width='47%' /></a>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabuhi0&theme=dark" padding-left='0px' width='47%' />
