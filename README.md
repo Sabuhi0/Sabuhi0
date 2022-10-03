@@ -9,7 +9,6 @@
  
 - 🔭 I’m currently working on FrontEnd development
 - 🌱 I'm currently learning JavaScript
-
 - 💬 Talk to me about JavaScript, React, Vue
 
 <h2> Skills </h2>
