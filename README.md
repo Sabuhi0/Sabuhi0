@@ -11,7 +11,7 @@
  
 - 🌱 I'm currently learning JavaScript
  
-- 💬 Talk to me about JavaScript, React, Vue
+- 💬 Talk to me about JavaScript, React, Angular
 
 <h2> Skills </h2>
 <a href="#" ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a>
